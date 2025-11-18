@@ -1,1 +1,15 @@
+Ignore the folder containing my original, unminified source code
+
 Source Code/
+
+--- macOS Junk ---
+
+.DS_Store
+
+--- Node/NPM Cache and Config ---
+
+Ignore the global npm cache folders created during local installs/runs
+
+.npm-cache/
+*/_npx/
+*/_logs/
